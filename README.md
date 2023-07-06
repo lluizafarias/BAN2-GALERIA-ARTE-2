@@ -1,5 +1,7 @@
 # Banco de Dados em Grafos com Neo4j Aura DB e Python
 
+## ALUNOS: LUIZA E OTAVIO
+
 ## Sobre
 
 O banco de dados apresentado é voltado para o gerenciamento de informações de uma Galeria de Arte. O banco de dados tem como objetivo armazenar informações importantes sobre artistas, obras de arte, clientes e exibições, além de registros de vendas e serviços de pagamentos.
